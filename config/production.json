@@ -1,0 +1,5 @@
+{
+	"mongoURI": "mongodb+srv://rellika-admin:rkisyula12@cluster0-fklyc.mongodb.net/contactKeeper?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
+}
+
